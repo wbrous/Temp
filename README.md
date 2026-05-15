@@ -1,4 +1,1 @@
-sinceohsix
-
-
-updating this soon
+![Banner](./sinceohsix.png)
